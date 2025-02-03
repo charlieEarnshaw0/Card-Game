@@ -1,0 +1,12 @@
+package com.cardgame.cards;
+
+import com.cardgame.score.Score;
+
+public class multiply2 extends com.cardgame.model.Card {
+    private String name = "multiply2";
+
+    public void process(Score x) {
+        x.setScore(x.getScore() * 2, name);
+    }
+
+}
