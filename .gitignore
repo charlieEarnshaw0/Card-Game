@@ -1,0 +1,12 @@
+/target/
+
+.mvn/
+.gradle/
+
+*.log
+
+Thumbs.db
+
+*.jar
+*.war
+*.ear
