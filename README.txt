@@ -1,3 +1,6 @@
+Progress on the card game has been hard and can be attributed to the lack of clarity I have for this project
+
+
 Do what the card says to your score
 Go to the card in the arrow
 It ends when it ends
